@@ -4,11 +4,7 @@
   <img src="https://i.pcmag.com/imagery/reviews/01dD7c6Jiwhc0I2GjnOxkdz-98.fit_lim.size_1050x591.v1699651380.jpg" alt="Norton 360 Deluxe Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://norton-360-deluxe.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_Norton_360_Deluxe-blue?style=for-the-badge&logo=github" alt="Get Norton 360 Deluxe"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://oskytken398.github.io/.github/Norton-360-Deluxe)
 
 ---
 
